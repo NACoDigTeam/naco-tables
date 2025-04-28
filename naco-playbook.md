@@ -14,7 +14,7 @@ The Western Interstate Region (WIR) represents NACo member counties from 15 West
 ## Large Urban County Caucus (LUCC)
 **Section:** Caucus
 **Audience:** Participation is open to elected or appointed officials and county staff of NACo member counties with a population of 500,000 or greater.
-**Frequency:** UCC convenes regularly through peer exchanges, symposia, and policy discussions, including site visits and learning events
+**Frequency:** LUCC convenes regularly through peer exchanges, symposia, and policy discussions, including site visits and learning events
 **Status:** Active and open to new members
 
 **Website:** [Visit Page](www.naco.org/committee/large-urban-county-caucus)
@@ -182,8 +182,8 @@ The Rural Action Caucus (RAC) is NACo’s voice for the 70% of American counties
 
 ## Early Childhood Initiative
 **Section:** County Practices (Health & Human Services)
-**Audience:** Open to county leaders, especially those working in public health, human services, or early education. Engagement: Includes webinars and cohort-based engagement.
-**Frequency:** 
+**Audience:** Open to county leaders, especially those working in public health, human services, or early education.
+**Frequency:** Webinars and cohort-based engagement.
 **Status:** Active
 
 **Website:** [Visit Page](https://www.naco.org/program/early-childhood-programming-and-resources)
@@ -208,8 +208,8 @@ The Rural Action Caucus (RAC) is NACo’s voice for the 70% of American counties
 
 ## Healthy Counties Initiative
 **Section:** County Practices (Health & Human Services)
-**Audience:** Open to all NACo member counties and their health leaders Engagement Details: Ongoing collaboration, resource sharing, and participation in Healthy Counties forums
-**Frequency:** 
+**Audience:** Open to all NACo member counties and their health leaders
+**Frequency:** Ongoing collaboration, resource sharing, and participation in Healthy Counties forums
 **Status:** Active and open to all members
 
 **Website:** [Visit Page](https://www.naco.org/center/healthy-counties-initiative)
@@ -221,8 +221,8 @@ The Rural Action Caucus (RAC) is NACo’s voice for the 70% of American counties
 
 ## Mental Health First Aid
 **Section:** County Practices (Health & Human Services)
-**Audience:** Open to county governments and departments interested in training staff Engagement Details: Trainings available by coordination with NACo and national partners
-**Frequency:** 
+**Audience:** Open to county governments and departments interested in training staff
+**Frequency:** Trainings available by coordination with NACo and national partners
 **Status:** Active and available year-round
 
 **Website:** [Visit Page](https://www.naco.org/page/mental-health-first-aid)
@@ -234,8 +234,8 @@ The Rural Action Caucus (RAC) is NACo’s voice for the 70% of American counties
 
 ## Immigration Reform Task Force
 **Section:** County Practices (Health & Human Services)
-**Audience:** Open to all NACo member counties, especially those with immigration-related responsibilities in health, human services, or public safety Engagement Details: Webinars, forums, and access to immigration-related resources.
-**Frequency:** 
+**Audience:** Open to all NACo member counties, especially those with immigration-related responsibilities in health, human services, or public safety
+**Frequency:** Webinars, forums and access to immigration-related resources.
 **Status:** Active and ongoing
 
 **Website:** [Visit Page](https://www.naco.org/committee/immigration-reform-task-force)
@@ -247,8 +247,8 @@ The Rural Action Caucus (RAC) is NACo’s voice for the 70% of American counties
 
 ## cashvest® by threeplusone®
 **Section:** County Practices (Finance)
-**Audience:** County treasurers, CFOs, finance directors, and elected officials in NACo member counties Engagement Details: Available year-round with onboarding support from the provider 
-**Frequency:** 
+**Audience:** County treasurers, CFOs, finance directors, and elected officials in NACo member counties
+**Frequency:** Available year-round with onboarding support from the provider
 **Status:** Active and open to all NACo member counties
 
 **Website:** [Visit Page](https://www.naco.org/page/cashvestr-threeplusoner)
@@ -260,8 +260,8 @@ The Rural Action Caucus (RAC) is NACo’s voice for the 70% of American counties
 
 ## ClearGov®
 **Section:** County Practices (Finance)
-**Audience:** County treasurers, CFOs, finance directors, and elected officials Engagement Details: Year-round participation; subscription-based software service 
-**Frequency:** 
+**Audience:** County treasurers, CFOs, finance directors, and elected officials
+**Frequency:** Year-round participation; subscription-based software service 
 **Status:** Active and available to NACo member counties
 
 **Website:** [Visit Page](https://www.naco.org/page/cleargovr)
@@ -273,9 +273,9 @@ The Rural Action Caucus (RAC) is NACo’s voice for the 70% of American counties
 
 ## Public Promise Procurement
 **Section:** County Practices (Finance)
-**Audience:** County administrators and staff responsible for procurement Engagement Details: Available year-round; onboarding through NACo
-**Frequency:** 
-**Status:** Active and open to all member counties
+**Audience:** County administrators and staff responsible for procurement
+**Frequency:** Available year-round; onboarding through NACo
+**Status:** Active and open to all counties
 
 **Website:** [Visit Page](https://www.naco.org/page/public-promise-procurement)
 
@@ -286,8 +286,8 @@ The Rural Action Caucus (RAC) is NACo’s voice for the 70% of American counties
 
 ## County Tech Xchange
 **Section:** County Practices (Technology)
-**Audience:** Open to CIOs, IT directors, CISOs, and county IT staff from NACo member counties Engagement Details: Ongoing access with monthly updates and virtual engagement opportunities 
-**Frequency:** 
+**Audience:** Open to CIOs, IT directors, CISOs, and county IT staff from NACo member counties
+**Frequency:** Ongoing access with monthly updates and virtual engagement opportunities 
 **Status:** Active and open to new members
 
 **Website:** [Visit Page](https://www.naco.org/page/county-tech-xchange)
@@ -299,8 +299,8 @@ The Rural Action Caucus (RAC) is NACo’s voice for the 70% of American counties
 
 ## Artificial Intelligence (AI) Leadership Academy
 **Section:** County Practices (Technology)
-**Audience:** Open to county elected officials, IT leadership, and department heads. Engagement Details: Delivered as a cohort-based virtual academy. 
-**Frequency:** 
+**Audience:** Open to county elected officials, IT leadership, and department heads
+**Frequency:** Delivered as a cohort-based virtual academy
 **Status:** Active and open to new participants
 
 **Website:** [Visit Page](https://www.naco.org/page/naco-artificial-intelligence-ai-leadership-academy)
@@ -312,8 +312,8 @@ The Rural Action Caucus (RAC) is NACo’s voice for the 70% of American counties
 
 ## Enterprise Cybersecurity Leadership Academy
 **Section:** County Practices (Technology)
-**Audience:** Open to county CISOs, IT security managers, and other staff responsible for information security. Engagement Details: Online academy with expert instruction and collaborative learning.
-**Frequency:** 
+**Audience:** Open to county CISOs, IT security managers, and other staff responsible for information security
+**Frequency:** Online academy with expert instruction and collaborative learning
 **Status:** Active and accepting enrollees
 
 **Website:** [Visit Page](https://www.naco.org/page/naco-enterprise-cybersecurity-leadership-academy)
@@ -325,8 +325,8 @@ Designed for county cybersecurity professionals, this virtual 12-week academy pr
 
 ## Information Technology (IT) Standing Committee
 **Section:** County Practices (Technology)
-**Audience:** Open to elected or appointed officials and county staff of NACo member counties, boroughs, and parishes. Engagement Details: Meets at least twice per year, with additional virtual meetings. 
-**Frequency:** 
+**Audience:** Open to elected or appointed officials and county staff of NACo member counties, boroughs, and parishes
+**Frequency:**  Meets at least twice per year, with additional virtual meetings
 **Status:** Active and open to new members
 
 **Website:** [Visit Page](https://www.naco.org/committee/information-technology-standing-committee)
@@ -338,8 +338,8 @@ Designed for county cybersecurity professionals, this virtual 12-week academy pr
 
 ## Artificial Intelligence (AI) Exploratory Committee (Past Program)
 **Section:** County Practices (Technology)
-**Audience:** County leaders and IT professionals interested in AI policy and implementation. Engagement Details: Operated as a special initiative launched by NACo officers; now concluded.
-**Frequency:** 
+**Audience:** County leaders and IT professionals interested in AI policy and implementation
+**Frequency:** Operated as a special initiative launched by NACo officers; now concluded
 **Status:** Past program
 
 **Website:** [Visit Page](https://www.naco.org/center/artificial-intelligence-exploratory-committee)
@@ -351,8 +351,8 @@ The AI Exploratory Committee explored emerging policies, practices, and applicat
 
 ## NACo High Performance Leadership Academy
 **Section:** County Practices (Workforce)
-**Audience:** Open to frontline county employees from NACo member counties. Engagement Details: Runs multiple cohorts each year with virtual sessions and peer collaboration. 
-**Frequency:** 
+**Audience:** Open to frontline county employees from NACo member counties
+**Frequency:** Runs multiple cohorts each year with virtual sessions and peer collaboration
 **Status:** Active and open to new participants
 
 **Website:** [Visit Page](https://www.naco.org/page/high-performance-leadership-academy)
@@ -364,8 +364,8 @@ The AI Exploratory Committee explored emerging policies, practices, and applicat
 
 ## NACo Deferred Compensation Program
 **Section:** County Practices (Workforce)
-**Audience:** Available to employees of county agencies enrolled in the program. Engagement Details: Enrollment available year-round via participating HR departments. 
-**Frequency:** 
+**Audience:** Available to employees of county agencies enrolled in the program
+**Frequency:** Enrollment available year-round via participating HR departments
 **Status:** Active and open to eligible employees
 
 **Website:** [Visit Page](https://www.naco.org/page/naco-deferred-compensation-program)
@@ -377,8 +377,8 @@ The AI Exploratory Committee explored emerging policies, practices, and applicat
 
 ## County Job Board
 **Section:** County Practices (Workforce)
-**Audience:** Open to all NACo member counties and job seekers. Engagement Details: Posting and application access available year-round. 
-**Frequency:** 
+**Audience:** Open to all NACo member counties and job seekers
+**Frequency:** Posting and application access available year-round
 **Status:** Active and publicly accessible
 
 **Website:** [Visit Page](https://www.naco.org/page/hire-quality-staff-naco-career-center)
@@ -390,8 +390,8 @@ The AI Exploratory Committee explored emerging policies, practices, and applicat
 
 ## County Leadership Institute
 **Section:** County Practices (Workforce)
-**Audience:** Open to county leaders nominated by their state associations of counties. Engagement Details: Offered annually through a hybrid model. 
-**Frequency:** 
+**Audience:** Open to county leaders nominated by their state associations of counties
+**Frequency:** Offered annually through a hybrid model
 **Status:** Active and by nomination
 
 **Website:** [Visit Page](https://www.naco.org/page/county-leadership-institute)
@@ -403,8 +403,8 @@ The AI Exploratory Committee explored emerging policies, practices, and applicat
 
 ## Counties for Career Success
 **Section:** County Practices (Workforce)
-**Audience:** Open to counties through an annual application process; all counties can access select resources. Engagement Details: Annual cohort model, applications reopen in fall 2024. 
-**Frequency:** 
+**Audience:** Open to counties through an annual application process; all counties can access select resources
+**Frequency:** Annual cohort model, applications closed in fall 2024
 **Status:** Active; cohort for 2024 is underway
 
 **Website:** [Visit Page](https://www.naco.org/program/counties-career-success)
@@ -416,8 +416,8 @@ The AI Exploratory Committee explored emerging policies, practices, and applicat
 
 ## Workforce Network
 **Section:** County Practices (Workforce)
-**Audience:** Open to county HR staff and administrators. Engagement Details: Ongoing access to virtual programming and peer learning. 
-**Frequency:** 
+**Audience:** Open to county HR staff and administrators
+**Frequency:** Ongoing access to virtual programming and peer learning
 **Status:** Active
 
 **Website:** [Visit Page](https://www.naco.org/center/naco-workforce-network)
@@ -429,8 +429,8 @@ The AI Exploratory Committee explored emerging policies, practices, and applicat
 
 ## Public Promise Insurance
 **Section:** County Practices (Workforce)
-**Audience:** Open to county HR departments and administrators from NACo member counties. Engagement Details: Available year-round with onboarding through NACo.
-**Frequency:** 
+**Audience:** Open to county HR departments and administrators from NACo member counties
+**Frequency:** Available year-round with onboarding through NACo
 **Status:** Active and open to new participants
 
 **Website:** [Visit Page](https://www.naco.org/page/public-promise-insurance-agency)
@@ -442,8 +442,8 @@ The AI Exploratory Committee explored emerging policies, practices, and applicat
 
 ## International Economic Development Task Force
 **Section:** County Practices (Economic Development)
-**Audience:** Open to elected and appointed officials and county staff of NACo member counties. Engagement Details: Meets at least twice per year with optional virtual meetings. 
-**Frequency:** 
+**Audience:** Open to elected and appointed officials and county staff of NACo member counties
+**Frequency:** Meets at least twice per year with optional virtual meetings
 **Status:** Active and open to new members
 
 **Website:** [Visit Page](https://www.naco.org/committee/international-economic-development-task-force)
@@ -455,8 +455,8 @@ International economic development plays an increasing role in local government 
 
 ## Counties for Housing Solutions
 **Section:** County Practices (Economic Development)
-**Audience:** Open to county housing leaders and staff. Engagement Details: Participation by application; national learning community. 
-**Frequency:** 
+**Audience:** Open to county housing leaders and staff
+**Frequency:** Participation by application; national learning community
 **Status:** Active
 
 **Website:** [Visit Page](www.naco.org/program/counties-housing-solutions)
@@ -468,8 +468,8 @@ International economic development plays an increasing role in local government 
 
 ## Counties for Economic Mobility
 **Section:** County Practices (Economic Development)
-**Audience:** Open to all NACo member counties. Leadership Advisory Council membership is by NACo invitation and limited to alumni of the 2019–2023 Economic Mobility Leadership Network. Engagement Details: Ongoing access to resources and technical support; additional learning opportunities through special initiatives. 
-**Frequency:** 
+**Audience:** Open to all NACo member counties. Leadership Advisory Council membership is by NACo invitation and limited to alumni of the 2019–2023 Economic Mobility Leadership Network
+**Frequency:** Ongoing access to resources and technical support; additional learning opportunities through special initiatives
 **Status:** Active and open to all member counties
 
 **Website:** [Visit Page](https://www.naco.org/program/counties-economic-mobility)
@@ -481,8 +481,8 @@ Counties for Economic Mobility (C4EM) helps county leaders advance equitable upw
 
 ## Rural Leaders for Economic Mobility
 **Section:** County Practices (Economic Development)
-**Audience:** Open to rural counties participating in the annual cohort. Engagement Details: Cohort-based peer network; limited participation by selection. 
-**Frequency:** 
+**Audience:** Open to rural counties participating in the annual cohort
+**Frequency:** Cohort-based peer network; limited participation by selection
 **Status:** Active; cohort for 2024 currently underway
 
 **Website:** [Visit Page](https://www.naco.org/program/rlem)
@@ -494,8 +494,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## Building Resilient Economies in Coal Communities (Past Program)
 **Section:** County Practices (Economic Development)
-**Audience:** Counties with ties to coal economies; program included open and cohort-based tracks. Engagement Details: Program concluded in 2024; resources remain available online. 
-**Frequency:** 
+**Audience:** Counties with ties to coal economies; program included open and cohort-based tracks
+**Frequency:** Program concluded in 2024; resources remain available online
 **Status:** Past program
 
 **Website:** [Visit Page](https://www.naco.org/program/building-resilient-economies-coal-communities)
@@ -507,8 +507,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## Economic Mobility Leadership Network (Past Program)
 **Section:** County Practices (Economic Development)
-**Audience:** Open to selected cohorts of county leaders during active program years. Engagement Details: Program ran in yearly cohorts; now concluded. 
-**Frequency:** 
+**Audience:** Open to selected cohorts of county leaders during active program years
+**Frequency:** Program ran in yearly cohorts; now concluded
 **Status:** Past program
 
 **Website:** [Visit Page](https://www.naco.org/program/economic-mobility-leadership-network)
@@ -520,8 +520,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## Housing Affordability Task Force (Past Program)
 **Section:** County Practices (Economic Development)
-**Audience:** Comprised of appointed county officials during active period; report available to all. Engagement Details: Task force concluded in 2023; report remains available.
-**Frequency:** 
+**Audience:** Comprised of appointed county officials during active period; report available to all
+**Frequency:** Task force concluded in 2023; report remains available
 **Status:** Past program
 
 **Website:** [Visit Page](https://www.naco.org/program/naco-housing-task-force)
@@ -533,8 +533,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## County Officials Advancing Racial Equity (CORE) Justice Network
 **Section:** County Practices (Justice)
-**Audience:** Open to elected officials and county staff working in justice and equity-related roles; participants are selected for each cohort. Engagement Details: Active cohort-based peer learning through June 2025. 
-**Frequency:** 
+**Audience:** Open to elected officials and county staff working in justice and equity-related roles; participants are selected for each cohort
+**Frequency:** Active cohort-based peer learning through June 2025
 **Status:** Active
 
 **Website:** [Visit Page](https://www.naco.org/program/county-officials-advancing-racial-equity-core-justice-network)
@@ -546,8 +546,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## County Juvenile Justice Innovation Network
 **Section:** County Practices (Justice)
-**Audience:** Typically by cohort selection; open to counties engaged in or exploring juvenile justice reform. Engagement Details: Peer learning, technical assistance, and project support. 
-**Frequency:** 
+**Audience:** Typically by cohort selection; open to counties engaged in or exploring juvenile justice reform
+**Frequency:** Peer learning, technical assistance, and project support
 **Status:** Active
 
 **Website:** [Visit Page](www.naco.org/program/county-juvenile-justice-innovation-network)
@@ -559,8 +559,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## Stepping Up: A National Initiative to Reduce the Number of People with Mental Illness in Jails (Past Program)
 **Section:** County Practices (Justice)
-**Audience:** Participation was open to all NACo member counties through self-enrollment. Engagement Details: Resources remain available online; initiative continues in practice but is no longer actively enrolling. 
-**Frequency:** 
+**Audience:** Participation was open to all NACo member counties through self-enrollment
+**Frequency:** Resources remain available online; initiative continues in practice but is no longer actively enrolling
 **Status:** Past program
 
 **Website:** [Visit Page](https://www.naco.org/center/stepping)
@@ -572,8 +572,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## Familiar Faces Initiative (Past Program)
 **Section:** County Practices (Justice)
-**Audience:** Open to counties working at the intersection of justice, public safety, health, and housing. Engagement Details: Program has concluded, but resources and message boards remain available for participating counties.
-**Frequency:** 
+**Audience:** Open to counties working at the intersection of justice, public safety, health, and housing.
+**Frequency:**  Program has concluded, but resources and message boards remain available for participating counties
 **Status:** Past program
 
 **Website:** [Visit Page](https://www.naco.org/program/familiar-faces-initiative)
@@ -585,8 +585,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## Resilient Counties Initiative & Resilient Counties Initiative Advisory Board
 **Section:** County Practices (Disaster Management)
-**Audience:** Open to elected or appointed officials and county staff of NACo member counties, boroughs, and parishes. Engagement Details: Advisory board members are selected through an application process; broader initiative resources available to all. 
-**Frequency:** 
+**Audience:** Open to elected or appointed officials and county staff of NACo member counties, boroughs, and parishes
+**Frequency:** Advisory board members are selected through an application process; broader initiative resources available to all
 **Status:** Active and open to new members
 
 **Website:** [Visit Page](https://www.naco.org/committee/resilient-counties-initiative-advisory-board)
@@ -598,8 +598,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## Intergovernmental Disaster Reform Task Force
 **Section:** County Practices (Disaster Management)
-**Audience:** Open to elected or appointed officials and county staff of NACo member counties, boroughs, and parishes. Engagement Details: Participation through application; meetings held to review and develop recommendations.
-**Frequency:** 
+**Audience:** Open to elected or appointed officials and county staff of NACo member counties, boroughs, and parishes
+**Frequency:** Participation through application; meetings held to review and develop recommendations
 **Status:** Active and open to new members
 
 **Website:** [Visit Page](https://www.naco.org/program/intergovernmental-disaster-reform-task-force)
@@ -611,8 +611,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## Becoming Energy Ready (SolSmart Program)
 **Section:** County Practices (Energy and Environment)
-**Audience:** Open to all counties, towns, cities, and regional organizations. Engagement Details: Ongoing technical assistance and designation opportunities; applications accepted year-round.
-**Frequency:** 
+**Audience:** Open to all counties, towns, cities, and regional organizations.
+**Frequency:** Ongoing technical assistance and designation opportunities; applications accepted year-round
 **Status:** Active
 
 **Website:** [Visit Page](https://www.naco.org/program/solsmart)
@@ -624,8 +624,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## Operation Green Light for Veterans
 **Section:** County Practices (Military & Veterans)
-**Audience:** Open to all counties nationwide. Engagement Details: Shine a green light in public spaces leading up to Veterans Day; access resources for outreach and promotion. 
-**Frequency:** 
+**Audience:** Open to all counties nationwide
+**Frequency:** Shine a green light in public spaces leading up to Veterans Day; access resources for outreach and promotion
 **Status:** Active and open to new participants
 
 **Website:** [Visit Page](https://www.naco.org/program/operation-green-light-veterans)
@@ -637,8 +637,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## Veterans and Military Services Committee
 **Section:** County Practices (Military & Veterans)
-**Audience:** Open to elected or appointed officials and county staff of NACo member counties, boroughs, and parishes. Engagement Details: Meets twice a year with additional virtual opportunities. Apply through NACo staff.
-**Frequency:** 
+**Audience:** Open to elected or appointed officials and county staff of NACo member counties, boroughs, and parishes
+**Frequency:** Meets twice a year with additional virtual opportunities. Apply through NACo staff.
 **Status:** Active and open to new members
 
 **Website:** [Visit Page](https://www.naco.org/committee/veterans-and-military-services-committee)
@@ -650,8 +650,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## Arts and Culture Commission
 **Section:** County Practices (Arts & Culture)
-**Audience:** Open to elected or appointed officials and staff of NACo member counties, boroughs, and parishes. Engagement Details: Meets at least twice per year with additional virtual sessions. 
-**Frequency:** 
+**Audience:** Open to elected or appointed officials and staff of NACo member counties, boroughs, and parishes
+**Frequency:** Meets at least twice per year with additional virtual sessions
 **Status:** Active and open to new members
 
 **Website:** [Visit Page](​https://www.naco.org/committee/arts-culture-commission)
@@ -663,8 +663,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## Creative Counties Placemaking Initiative (Past Program)
 **Section:** County Practices (Arts & Culture)
-**Audience:** Not currently Active Resources remain available online. Engagement Details: No longer accepting new participants.
-**Frequency:** 
+**Audience:** Not currently active, but resources remain available online
+**Frequency:** No longer accepting new participants
 **Status:** Past Program
 
 **Website:** [Visit Page](​https://www.naco.org/program/creative-counties-placemaking-initiative)
@@ -676,8 +676,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## NACo Achievement Awards
 **Section:** County Practices (County Governance & Communications)
-**Audience:** Open to all NACo member counties; submissions typically accepted each spring. Engagement Details: Annual awards cycle; winners announced each summer. 
-**Frequency:** 
+**Audience:** Open to all NACo member counties; submissions typically accepted each spring
+**Frequency:** Annual awards cycle; winners announced each summer
 **Status:** Active
 
 **Website:** [Visit Page](https://www.naco.org/page/achievement-awards)
@@ -689,8 +689,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## Equitable Governance Network
 **Section:** County Practices (County Governance & Communications)
-**Audience:** Open to NACo member counties; geared toward leaders advancing equity and engagement. Engagement Details: Peer exchange, learning sessions, and local implementation support. 
-**Frequency:** 
+**Audience:** Open to NACo member counties; geared toward leaders advancing equity and engagement
+**Frequency:** Peer exchange, learning sessions, and local implementation support
 **Status:** Active
 
 **Website:** [Visit Page](https://www.naco.org/program/equitable-governance)
@@ -702,8 +702,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## Equity & Governance Task Force (Past Program)
 **Section:** County Practices (County Governance & Communications)
-**Audience:** Participation was limited to appointed NACo members. Engagement Details: Task force meetings and final recommendations; program has concluded. 
-**Frequency:** 
+**Audience:** Participation was limited to appointed NACo members
+**Frequency:** Task force meetings and final recommendations; program has concluded. 
 **Status:** Past program
 
 **Website:** [Visit Page](www.naco.org/program/equity-governance-task-force)
@@ -715,8 +715,8 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 ## Next Generation NACo Network (Past Program)
 **Section:** County Practices (County Governance & Communications)
-**Audience:** Open to emerging leaders from NACo member counties. Engagement Details: Operated as a standing peer group; now concluded. 
-**Frequency:** 
+**Audience:** Open to emerging leaders from NACo member counties
+**Frequency:** Operated as a standing peer group; now concluded
 **Status:** Past program
 
 **Website:** [Visit Page](https://www.naco.org/committee/next-generation-naco-network)
@@ -736,5 +736,44 @@ Rural Leaders for Economic Mobility is a knowledge-sharing network that empowers
 
 **Description:**
 The Gulf States Counties and Parishes Caucus (GSCPC) is the unified voice for Gulf Coast counties and parishes before Congress and the Administration, promoting collaboration and regional information sharing.
+
+---
+
+## Annual Conference & Exposition
+**Section:** Events
+**Audience:** Elected officials, heads of departments and other county leaders
+**Frequency:** Held each July
+**Status:** Active
+
+**Website:** [Visit Page](https://www.naco.org/page/naco-annual-conference)
+
+**Description:**
+The largest event of the year, NACo’s Annual Conference draws 3,000 elected and appointed county officials and partners to celebrate county leadership and innovation, learn and exchange ideas, and undertake the business of the association by electing leadership and adopting the American County Platform, which guides NACo’s federal policy advocacy for the year ahead.
+
+---
+
+## Legislative Conference
+**Section:** Events
+**Audience:** Elected officials, heads of departments and other county leaders
+**Frequency:** Held annually in Washington, D.C.
+**Status:** Active
+
+**Website:** [Visit Page](https://www.naco.org/page/naco-legislative-conference)
+
+**Description:**
+Held each year in Washington, D.C., NACo’s Legislative Conference is an unparalleled opportunity to strengthen intergovernmental partnerships and advance county federal policy priorities. Nearly 2,000 elected and appointed county officials connect with federal agencies and members of Congress and participate in policy summits and workshop relevant to the federal-state-local partnership.
+
+---
+
+## Western Interstate Region Conference
+**Section:** Events
+**Audience:** Elected officials, heads of departments, and other county leaders from WIR states
+**Frequency:** Held annually
+**Status:** Active
+
+**Website:** [Visit Page](https://www.naco.org/page/western-interstate-region-conference)
+
+**Description:**
+NACo’s Western Interstate Region (WIR) Conference brings together county officials to focus on pressing issues facing Western counties and our residents. Attendees have the opportunity to interact with federal, state and regional policymakers, participate in educational sessions, and take home actionable tools and resources.
 
 ---
