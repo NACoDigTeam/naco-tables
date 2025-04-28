@@ -782,7 +782,7 @@ NACo’s Western Interstate Region (WIR) Conference brings together county offic
 **Section:** Resources (NACo Publications)
 **Audience:** All NACo members
 **Frequency:** Advocacy hub is updated daily; County Countdown editions are released every other week
-**Status:** Active
+**Status:** 
 
 **Website:** [Visit Page](https://www.naco.org/page/advocacy-hub)
 
@@ -791,15 +791,16 @@ NACo supports federal policies and programs that equip county governments with t
 
 ---
 
-## NACo Advocacy Hub copy
+## NACo Resource Library
 **Section:** Resources (NACo Publications)
-**Audience:** All NACo members
-**Frequency:** Advocacy hub is updated daily; County Countdown editions are released every other week
+**Audience:** All county leaders and staff
+**Frequency:** Updated year-round with new reports, policy briefs, toolkits and educational materials.
 **Status:** Active
 
-**Website:** [Visit Page](https://www.naco.org/page/advocacy-hub)
+**Website:** [Visit Page](https://www.naco.org/page/resource-library)
 
 **Description:**
-NACo supports federal policies and programs that equip county governments with the resources and flexibility needed to serve our residents. The Advocacy Hub is your one-stop-shop for supporting county priorities on the national level. Find our latest analysis and advocacy updates, explore policy briefs and watch the latest episode of the County Countdown.
+The NACo Resource Library is a one-stop hub for county leaders seeking the latest reports, analysis, and toolkits to inform decision-making and advance county priorities.
+Organized by topic and resource type, the library connects members to actionable insights on issues ranging from broadband and public health to transportation and finance. New content is added regularly to help counties stay ahead of emerging challenges and opportunities.
 
 ---
