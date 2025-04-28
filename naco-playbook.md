@@ -777,3 +777,16 @@ Held each year in Washington, D.C., NACo’s Legislative Conference is an unpara
 NACo’s Western Interstate Region (WIR) Conference brings together county officials to focus on pressing issues facing Western counties and our residents. Attendees have the opportunity to interact with federal, state and regional policymakers, participate in educational sessions, and take home actionable tools and resources.
 
 ---
+
+## NACo Advocacy Hub
+**Section:** Resources (NACo Publications)
+**Audience:** All NACo members
+**Frequency:** Advocacy hub is updated daily; County Countdown editions are released every other week
+**Status:** Active
+
+**Website:** [Visit Page](https://www.naco.org/page/advocacy-hub)
+
+**Description:**
+NACo supports federal policies and programs that equip county governments with the resources and flexibility needed to serve our residents. The Advocacy Hub is your one-stop-shop for supporting county priorities on the national level. Find our latest analysis and advocacy updates, explore policy briefs and watch the latest episode of the County Countdown.
+
+---
