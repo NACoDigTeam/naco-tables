@@ -791,7 +791,7 @@ NACo supports federal policies and programs that equip county governments with t
 
 ---
 
-## Resource Library
+## Resource Library copy
 **Section:** Resources (NACo Publications)
 **Audience:** All county leaders and staff
 **Frequency:** Updated year-round with new reports, policy briefs, toolkits and educational materials.
