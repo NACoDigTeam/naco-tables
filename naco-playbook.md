@@ -844,3 +844,16 @@ The County Governance Project is NACo’s authoritative guide to the structure a
 It features interactive state profiles and a searchable national dataset that breaks down how counties are organized, what services they deliver, the powers they hold and how they fund operations. The project equips county leaders, policymakers and the public with data and insights to better understand and explain the role of counties in our intergovernmental system.
 
 ---
+
+## Counties Work Game & Curriculum
+**Section:** Resources (Civic Engagement)
+**Audience:** Educators, students (grades 6–12), county leaders supporting civic education and public outreach.
+**Frequency:** Available year-round, updated periodically with new classroom resources.
+**Status:** Active
+
+**Website:** [Visit Page](https://www.naco.org/page/counties-work-game-curriculum)
+
+**Description:**
+Counties Work, developed in partnership with iCivics, is a online game and classroom resource that helps students understand the structure, functions and responsibilities of county government. Designed for grades 6–12, the game lets students simulate decisions as county officials — from balancing budgets to responding to community needs. The accompanying curriculum includes a teacher guide, lesson plans and an activity book to engage younger learners in civics education.
+
+---
