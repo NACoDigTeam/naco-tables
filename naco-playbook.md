@@ -883,3 +883,16 @@ County Explorer is NACo’s interactive data platform offering a comprehensive l
 NACo’s virtual events provide accessible opportunities for county leaders to learn, collaborate and take action on pressing topics. From weekly webinars to in-depth policy briefings, these sessions cover emerging trends, federal funding updates, leadership strategies and proven county solutions. With expert speakers, live Q&A and follow-up resources – as well as a robust library of on-demand webinars – NACo's virtual events help counties stay informed and connected — no matter where they are.
 
 ---
+
+## National Center for Public Lands Counties
+**Section:** County Practices (Public Lands)
+**Audience:** County officials and staff in public lands counties, researchers, federal and state policymakers, media and advocacy partners.
+**Frequency:** Ongoing research, tools and convenings published and hosted year-round.
+**Status:** Active
+
+**Website:** [Visit Page](https://www.naco.org/program/national-center-public-lands-counties)
+
+**Description:**
+The National Center for Public Lands Counties advances the study and understanding of counties that contain federally managed lands. Through research, case studies, convenings and federal engagement, the Center addresses the unique governance, funding and land management challenges faced by these counties. It facilitates collaboration across all levels of government and elevates the voices of county leaders on issues like wildfire mitigation, landscape health and rural economic development. The Center also hosts the Public Lands Knowledge Hub, a clearinghouse of tools and resources open to all county leaders — designed to connect peers, surface emerging issues and support sound policymaking.
+
+---
