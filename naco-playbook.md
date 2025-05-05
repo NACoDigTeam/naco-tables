@@ -857,3 +857,16 @@ It features interactive state profiles and a searchable national dataset that br
 Counties Work, developed in partnership with iCivics, is a online game and classroom resource that helps students understand the structure, functions and responsibilities of county government. Designed for grades 6–12, the game lets students simulate decisions as county officials — from balancing budgets to responding to community needs. The accompanying curriculum includes a teacher guide, lesson plans and an activity book to engage younger learners in civics education.
 
 ---
+
+## County Explorer
+**Section:** Resources (Civic Engagement)
+**Audience:** County officials, policymakers, researchers, journalists and the public.
+**Frequency:** Updated regularly with new datasets and indicators.
+**Status:** Active
+
+**Website:** [Visit Page](https://www.naco.org/page/county-explorer-data)
+
+**Description:**
+County Explorer is NACo’s interactive data platform offering a comprehensive look at all 3,069 U.S. counties, parishes and boroughs. With more than 1,000 indicators across nearly 100 datasets, users can visualize, compare and analyze county-level data on topics like public health, broadband access, transportation, population trends and local governance. The tool supports informed decision-making, targeted advocacy and public education by making complex data accessible and easy to explore.
+
+---
