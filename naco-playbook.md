@@ -817,3 +817,16 @@ Organized by topic and resource type, the library connects members to actionable
 County News is the official news publication of the National Association of Counties, covering the latest developments in federal policy, county innovations and member achievements. Published online and in print, County News delivers timely analysis, in-depth reporting and real-world examples of how counties are serving our communities.
 
 ---
+
+## Counties 101
+**Section:** Resources (Civic Engagement)
+**Audience:** County officials for use within their communities, federal partners, educators, students and members of the public seeking a foundational understanding of county government
+**Frequency:** Updated periodically as new educational materials and explainer content are developed
+**Status:** Active
+
+**Website:** [Visit Page](https://www.naco.org/page/counties-101)
+
+**Description:**
+Counties 101 is NACo’s civic education platform that introduces the structure, responsibilities and impact of county governments. The tool features concise modules that explain how counties function, what services we provide and how those services are funded. Counties 101 helps build understanding of the essential role counties play in building healthy safe and vibrant communities across the country.
+
+---
