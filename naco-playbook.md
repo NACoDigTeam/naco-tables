@@ -870,3 +870,16 @@ Counties Work, developed in partnership with iCivics, is a online game and class
 County Explorer is NACo’s interactive data platform offering a comprehensive look at all 3,069 U.S. counties, parishes and boroughs. With more than 1,000 indicators across nearly 100 datasets, users can visualize, compare and analyze county-level data on topics like public health, broadband access, transportation, population trends and local governance. The tool supports informed decision-making, targeted advocacy and public education by making complex data accessible and easy to explore.
 
 ---
+
+## Virtual Events
+**Section:** Events
+**Audience:** County officials and staff, policy, as well as NACo partners seeking timely updates, best practices and engagement opportunities.
+**Frequency:** Offered frequently throughout the year — often weekly — and recorded for on-demand access.
+**Status:** Active
+
+**Website:** [Visit Page](https://www.naco.org/page/virtual-events)
+
+**Description:**
+NACo’s virtual events provide accessible opportunities for county leaders to learn, collaborate and take action on pressing topics. From weekly webinars to in-depth policy briefings, these sessions cover emerging trends, federal funding updates, leadership strategies and proven county solutions. With expert speakers, live Q&A and follow-up resources – as well as a robust library of on-demand webinars – NACo's virtual events help counties stay informed and connected — no matter where they are.
+
+---
