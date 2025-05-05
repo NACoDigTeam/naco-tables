@@ -830,3 +830,17 @@ County News is the official news publication of the National Association of Coun
 Counties 101 is NACo’s civic education platform that introduces the structure, responsibilities and impact of county governments. The tool features concise modules that explain how counties function, what services we provide and how those services are funded. Counties 101 helps build understanding of the essential role counties play in building healthy safe and vibrant communities across the country.
 
 ---
+
+## County Governance Project
+**Section:** Resources (Civic Engagement)
+**Audience:** County officials, researchers, policymakers, educators and journalists seeking to understand county government systems across states.
+**Frequency:** Updated periodically as state-level governance structures or laws change.
+**Status:** Active
+
+**Website:** [Visit Page](https://www.naco.org/program/county-governance-project)
+
+**Description:**
+The County Governance Project is NACo’s authoritative guide to the structure and function of county governments nationwide.
+It features interactive state profiles and a searchable national dataset that breaks down how counties are organized, what services they deliver, the powers they hold and how they fund operations. The project equips county leaders, policymakers and the public with data and insights to better understand and explain the role of counties in our intergovernmental system.
+
+---
