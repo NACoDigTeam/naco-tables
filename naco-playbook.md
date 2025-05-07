@@ -649,7 +649,7 @@ Through the work of County Veterans Service Officers, counties help veterans acc
 ---
 
 ## Arts and Culture Commission
-**Section:** County Practices (Arts & Culture)
+**Section:** County Practices
 **Audience:** Open to elected or appointed officials and staff of NACo member counties, boroughs, and parishes
 **Frequency:** Meets at least twice per year with additional virtual sessions
 **Status:** Active and open to new members
@@ -662,7 +662,7 @@ The NACo Arts and Culture Commission promotes county-level investments in the ar
 ---
 
 ## Creative Counties Placemaking Initiative (Past Program)
-**Section:** County Practices (Arts & Culture)
+**Section:** County Practices
 **Audience:** Not currently active, but resources remain available online
 **Frequency:** No longer accepting new participants
 **Status:** Past Program
