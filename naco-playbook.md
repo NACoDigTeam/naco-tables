@@ -596,19 +596,6 @@ The Resilient Counties Initiative helps counties prepare for and recover from na
 
 ---
 
-## Intergovernmental Disaster Reform Task Force
-**Section:** County Practices (Disaster Management)
-**Audience:** Open to elected or appointed officials and county staff of NACo member counties, boroughs, and parishes
-**Frequency:** Participation through application; meetings held to review and develop recommendations
-**Status:** Active and open to new members
-
-**Website:** [Visit Page](https://www.naco.org/program/intergovernmental-disaster-reform-task-force)
-
-**Description:**
-The Intergovernmental Disaster Reform Task Force convenes county leaders to identify and advance federal, state and local reforms that improve disaster response and recovery. The task force advocates for more coordinated and effective intergovernmental policies, informed by county-level experiences with natural disasters, emergency management and public safety.
-
----
-
 ## Becoming Energy Ready (SolSmart Program)
 **Section:** County Practices (Energy and Environment)
 **Audience:** Open to all counties, towns, cities, and regional organizations.
