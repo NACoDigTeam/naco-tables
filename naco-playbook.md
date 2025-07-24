@@ -4,7 +4,7 @@
 **Frequency:** Annual WIR Conference in May, plus ongoing coordination and collaboration
 **Status:** Active and open to new members
 
-**Website:** [Visit Page](www.naco.org/committee/western-interstate-region)
+**Website:** [Visit Page](https://www.naco.org/committee/western-interstate-region)
 
 **Description:**
 The Western Interstate Region (WIR) represents NACo member counties from 15 Western states and is dedicated to advocating for Western interests. These include federal public lands, economic development, community stability, and preserving the traditional Western way of life. WIR provides a unified voice for counties in the region and facilitates collaboration between counties and federal agencies. It also convenes members annually for its WIR Conference, which features site visits, educational sessions, and regional policy discussions.
@@ -17,7 +17,7 @@ The Western Interstate Region (WIR) represents NACo member counties from 15 West
 **Frequency:** LUCC convenes regularly through peer exchanges, symposia, and policy discussions, including site visits and learning events
 **Status:** Active and open to new members
 
-**Website:** [Visit Page](www.naco.org/committee/large-urban-county-caucus)
+**Website:** [Visit Page](https://www.naco.org/committee/large-urban-county-caucus)
 
 **Description:**
 The Large Urban County Caucus (LUCC) is NACo’s premier forum for the leaders of counties with populations over 500,000. LUCC plays a central role in national policy discussions and peer learning, tackling the most complex challenges facing America’s urban counties — from economic development and infrastructure to public health, justice, and safety. Through LUCC, members engage in strategic dialogue, share best practices, and elevate urban county priorities at the federal level.
@@ -30,7 +30,7 @@ The Large Urban County Caucus (LUCC) is NACo’s premier forum for the leaders o
 **Frequency:** Regular meetings, including the annual RAC Symposium hosted in different rural counties
 **Status:** Active and open to new members
 
-**Website:** [Visit Page]( www.naco.org/committee/rural-action-caucus)
+**Website:** [Visit Page](https://www.naco.org/committee/rural-action-caucus)
 
 **Description:**
 The Rural Action Caucus (RAC) is NACo’s voice for the 70% of American counties classified as rural. Since 1997, RAC has brought together county leaders to address the unique challenges rural communities face, including infrastructure development, broadband access, healthcare services, economic development, and more. It serves as a platform for advocacy, peer learning, and engagement with federal policymakers, ensuring rural counties have a strong presence in national decision-making.
@@ -173,7 +173,7 @@ Counties own and maintain 45% of America’s road miles, operate 34% of public a
 **Frequency:** Ongoing, year-round participation
 **Status:** Active and open to all member counties
 
-**Website:** [Visit Page](www.naco.org/page/live-healthy-us-counties)
+**Website:** [Visit Page](https://www.naco.org/page/live-healthy-us-counties)
 
 **Description:**
 The NACo Live Healthy Prescription, Health & Dental Discount Program is a no-cost program available to all NACo member counties. This program is not insurance, but provides savings for uninsured and underinsured residents through a prescription discount card, a health discount program, a dental discount program and discounts at CVS Pharmacy MinuteClinic locations. Since 2004, the program has saved residents in nearly 1,300 counties over $713 million.
@@ -459,7 +459,7 @@ International economic development plays an increasing role in local government 
 **Frequency:** Participation by application; national learning community
 **Status:** Active
 
-**Website:** [Visit Page](www.naco.org/program/counties-housing-solutions)
+**Website:** [Visit Page](https://www.naco.org/program/counties-housing-solutions)
 
 **Description:**
 Counties for Housing Solutions brings together counties working to address housing affordability and inventory challenges. Through technical assistance, policy guidance and peer learning, this initiative uplifts county-led innovations and promotes public-private collaboration to expand housing access.
@@ -550,7 +550,7 @@ NACo’s Housing Affordability Task Force brought together county leaders to exp
 **Frequency:** Peer learning, technical assistance, and project support
 **Status:** Active
 
-**Website:** [Visit Page](www.naco.org/program/county-juvenile-justice-innovation-network)
+**Website:** [Visit Page](https://www.naco.org/program/county-juvenile-justice-innovation-network)
 
 **Description:**
 The County Juvenile Justice Innovation Network supports counties in developing and implementing innovative and data-informed juvenile justice reforms. This program focuses on diverting youth from detention, advancing equitable practices and improving outcomes for young people in the justice system.
@@ -641,7 +641,7 @@ Through the work of County Veterans Service Officers, counties help veterans acc
 **Frequency:** Meets at least twice per year with additional virtual sessions
 **Status:** Active and open to new members
 
-**Website:** [Visit Page](​https://www.naco.org/committee/arts-culture-commission)
+**Website:** [Visit Page](https://www.naco.org/committee/arts-culture-innovation-council)
 
 **Description:**
 The NACo Arts and Culture Commission promotes county-level investments in the arts as strategies for community and economic development. Through site visits, workshops and publications, the commission showcases the creative ways counties are using the arts to tackle local challenges and boost livability.
@@ -654,7 +654,7 @@ The NACo Arts and Culture Commission promotes county-level investments in the ar
 **Frequency:** No longer accepting new participants
 **Status:** Past Program
 
-**Website:** [Visit Page](​https://www.naco.org/program/creative-counties-placemaking-initiative)
+**Website:** [Visit Page](https://www.naco.org/program/creative-counties-placemaking-initiative)
 
 **Description:**
 Developed in partnership with Americans for the Arts and the National Endowment for the Arts, this initiative supported county leaders in integrating the arts into solutions for community challenges. The program produced a Creative Placemaking Toolkit and hosted a series of webinars and peer learning opportunities.
@@ -693,7 +693,7 @@ Developed in partnership with Americans for the Arts and the National Endowment 
 **Frequency:** Task force meetings and final recommendations; program has concluded. 
 **Status:** Past program
 
-**Website:** [Visit Page](www.naco.org/program/equity-governance-task-force)
+**Website:** [Visit Page](https://www.naco.org/program/equity-governance-task-force)
 
 **Description:**
 The Equity & Governance Task Force was launched to explore how county governments can strengthen equity, transparency and engagement. Members reviewed governance structures and recommended strategies for modernizing public participation, enhancing civic trust and making decision-making more inclusive.
