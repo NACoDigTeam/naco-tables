@@ -883,3 +883,18 @@ NACo’s virtual events provide accessible opportunities for county leaders to l
 The National Center for Public Lands Counties advances the study and understanding of counties that contain federally managed lands. Through research, case studies, convenings and federal engagement, the Center addresses the unique governance, funding and land management challenges faced by these counties. It facilitates collaboration across all levels of government and elevates the voices of county leaders on issues like wildfire mitigation, landscape health and rural economic development. The Center also features the Public Lands Knowledge Hub, a clearinghouse of tools and resources open to all county leaders — designed to connect peers, surface emerging issues and support sound policymaking.
 
 ---
+
+## Midsize County Caucus
+**Section:** Caucus
+**Audience:** Open to elected or appointed officials and county staff of midsize NACo member counties. There is no minimum size or population requirement for participation
+**Frequency:** Regular meetings during NACo conferences
+**Status:** Active and open to new members
+
+**Website:** [Visit Page](https://www.naco.org/committee/midsize-county-caucus)
+
+**Description:**
+Launched in 2025, the Midsize County Caucus focuses on the distinct challenges and opportunities shared by midsized counties across the country.
+
+
+
+---
