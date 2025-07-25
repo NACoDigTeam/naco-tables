@@ -895,6 +895,4 @@ The National Center for Public Lands Counties advances the study and understandi
 **Description:**
 Launched in 2025, the Midsize County Caucus focuses on the distinct challenges and opportunities shared by midsized counties across the country.
 
-
-
 ---
