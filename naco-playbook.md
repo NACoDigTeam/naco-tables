@@ -206,13 +206,13 @@ Counties are on the frontlines of the opioid crisis, investing opioid settlement
 
 ---
 
-## Healthy Counties Initiative
+## Healthy Counties Innovation Council
 **Section:** County Practices (Health & Human Services)
 **Audience:** Open to all NACo member counties and their health leaders
 **Frequency:** Ongoing collaboration, resource sharing, and participation in Healthy Counties forums
 **Status:** Active and open to all members
 
-**Website:** [Visit Page](https://www.naco.org/center/healthy-counties-initiative)
+**Website:** [Visit Page](https://www.naco.org/committee/healthy-counties-innovation-council)
 
 **Description:**
 NACo’s Healthy Counties Initiative builds and sustains healthy counties by supporting collaboration and sharing evidence-informed approaches to pressing health issues. By elevating best practices and local innovations, the initiative helps more county leaders access the policies and programs they need to meet community health challenges.
