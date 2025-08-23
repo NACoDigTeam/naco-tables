@@ -896,16 +896,3 @@ The National Center for Public Lands Counties advances the study and understandi
 Launched in 2025, the Midsize County Caucus focuses on the distinct challenges and opportunities shared by midsized counties across the country.
 
 ---
-
-## Midsize County Caucus copy
-**Section:** Caucus
-**Audience:** Open to elected or appointed officials and county staff of midsize NACo member counties. There is no minimum size or population requirement for participation
-**Frequency:** Regular meetings during NACo conferences
-**Status:** Active and open to members
-
-**Website:** [Visit Page](https://www.naco.org/committee/midsize-county-caucus)
-
-**Description:**
-Launched in 2025, the Midsize County Caucus focuses on the distinct challenges and opportunities shared by midsized counties across the country.
-
----
