@@ -896,3 +896,16 @@ The National Center for Public Lands Counties advances the study and understandi
 Launched in 2025, the Midsize County Caucus focuses on the distinct challenges and opportunities shared by midsized counties across the country.
 
 ---
+
+## Intergovernmental Disaster Reform Task Force
+**Section:** County Practices (Disaster Management)
+**Audience:** 
+**Frequency:** 
+**Status:** 
+
+**Website:** [Visit Page](https://www.naco.org/program/intergovernmental-disaster-reform-task-force)
+
+**Description:**
+The NACo Intergovernmental Disaster Reform Task Force was launched in November 2024 to strengthen our nation's disaster mitigation, response and recovery capabilities. 
+
+---
