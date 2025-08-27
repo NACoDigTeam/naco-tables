@@ -899,9 +899,9 @@ Launched in 2025, the Midsize County Caucus focuses on the distinct challenges a
 
 ## Intergovernmental Disaster Reform Task Force
 **Section:** County Practices (Disaster Management)
-**Audience:** 
-**Frequency:** 
-**Status:** 
+**Audience:** Elected and appointed county officials 
+**Frequency:** Recurring advocacy updates and in-person meetings
+**Status:** Accepting members to be friends of the task force
 
 **Website:** [Visit Page](https://www.naco.org/program/intergovernmental-disaster-reform-task-force)
 
